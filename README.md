@@ -1,2 +1,2 @@
 # articles
-A collection of articles written by Caio Saldanha.
+A collection of articles written by me

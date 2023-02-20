@@ -1,2 +1,2 @@
 # articles
-A collection of articles written by me
+A collection of articles written by me.

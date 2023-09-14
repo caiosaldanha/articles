@@ -1,6 +1,6 @@
-Linear Regression: A simple and powerful tool for Data Science & Analytics
+# Linear Regression: A simple and powerful tool for Data Science & Analytics
 
-by Caio Saldanha
+*by Caio Saldanha*
 
 
 Published at [ifs.medium.com](https://ifs.medium.com/linear-regression-a-simple-and-powerful-tool-for-data-science-analytics-f7894c8921e0) on Aug 22, 2023

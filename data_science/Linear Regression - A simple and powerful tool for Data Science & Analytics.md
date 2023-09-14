@@ -14,9 +14,9 @@ Linear regression, the cornerstone of this discussion, is more than just a mathe
 At its core, the “linear” in linear regression signifies a relationship that is easily graspable — a line on a graph. Visualize a line stretching infinitely in both directions, composed of countless individual points. When we plot these points on a graph, we observe only a fragment of the entire line. This visible portion represents the essence of linear regression — a graphical representation of the connection between variables.
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*bV88gfhLSLCc1izXcRePag.png)
+
 *Image from MLExtend Documentation. Acessible at mlxtend (rasbt.github.io)*
 
-Image from MLExtend Documentation. Acessible at mlxtend (rasbt.github.io)
 Linear regression, in its essence, is a method for estimating the linear connection between a dependent variable (often denoted as y) and one or more independent variables (often denoted as x). For instance, consider a scenario where we seek to comprehend the interplay between product prices and sales figures. In this case, sales would be the dependent variable (y), while prices would serve as the independent variable (x). The relationship between these variables can be elucidated through linear regression.
 
 ## Nuances of Continuous and Categorical variables
@@ -41,7 +41,6 @@ Returning to our cake and coffee scenario, the slope would provide insights into
 
 *Image from the article “Correlation Analysis to Identify the Effective Data in Machine Learning: Prediction of Depressive Disorder and Emotion States”. Acessible at https://doi.org/10.3390/ijerph15122907*
 
-Image from the article “Correlation Analysis to Identify the Effective Data in Machine Learning: Prediction of Depressive Disorder and Emotion States”. Acessible at https://doi.org/10.3390/ijerph15122907
 The heart of linear regression lies in its ability to uncover correlations. When two variables, x and y, exhibit a linear relationship, we say they are correlated. Statistics offer us the tools to quantify the strength of this linear association. Within the realm of correlation, two types emerge: positive and negative.
 
 Positive correlation denotes a scenario where two variables tend to move in tandem — increasing together or decreasing together. Picture the case where as the number of cups of coffee sold rises, the number of cake slices sold also experiences an upsurge. This positive correlation encapsulates their interconnectedness.
